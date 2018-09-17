@@ -6,7 +6,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
 /**
- * 继承SpringBootServletInitializer并重写configure为了tomcat启动
+ * 继承SpringBootServletInitializer并重写configure为了tomcat启动 
  *
  */
 @SpringBootApplication
